@@ -41,4 +41,4 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
 # 4. Run the app
-streamlit run wallet_watch_app.py
+streamlit run wallet_watch.py
